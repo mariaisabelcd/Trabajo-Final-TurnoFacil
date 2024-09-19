@@ -19,7 +19,7 @@
         </tr>
         <tr>
             <td>
-                <img align="center" alt="I&S" height="135px" src="https://raw.githubusercontent.com/juliancastillo-udea/2024-1-ProgramacionPosgrados/main/images/IS.png" hspace="10px" vspace="0px">
+                <img align="center" alt="Fresas" height="200px" src="https://raw.githubusercontent.com/mariaisabelcd/Trabajo-Final/main/images/fresh-strawberries-bowl-old-dark-background-828x548.jpg" hspace="10px" vspace="0px">
             </td>
         </tr>
     </thead>
