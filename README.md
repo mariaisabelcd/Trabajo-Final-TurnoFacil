@@ -14,7 +14,7 @@
         </tr>
         <tr>
             <td align="center">
-                <h1><b>Trabajo Final</b></h1>
+                <h1><b>TurnoFácil EPS</b></h1>
             </td>
         </tr>
         <tr>
@@ -48,9 +48,11 @@
 
 # **Descripción del problema a solucionar -Software gestión turnos**
 
-La EPS PailaSalud está interesada en crear un programa para la gestión de turnos y atenciones debido a que actualmente el procedimiento se realiza manualmente en donde los pacientes deben estar sentados y esperando el servicio, sin ningún tipo de atención preferencial o clasificada. Este procedimiento afecta el rendimiento del servicio y afecta el desempeño de la atención.
+El software TurnoFácil es una solución diseñada para la EPS PailaSalud con el fin de optimizar la gestión de turnos y la atención de pacientes, superando las limitaciones del proceso manual actual. El sistema organiza y gestiona la llegada de los pacientes, basándose en las citas programadas previamente por el sistema de la EPS, asegurando una atención más fluida y priorizada.
 
-Para solucionar este problema los estudiantes en grupos de máximo tres integrantes, deberán crear un programa que se encargue de gestionar las personas que llegan a la EPS, producto de las citas programadas que dispone el servicio de la EPS. El software debe encargarse tanto de su llegada como de su recorrido por el sistema. El listado de las personas será proporcionado por un programa creado por la EPS (el docente entrega este programa para su uso) en un repositorio de GitHub sobre el cual los estudiantes deben hacer un clon del repositorio y continuar con su proyecto desde este punto de partida.
+TurnoFácil mejora el rendimiento del servicio, disminuyendo tiempos de espera innecesarios y garantizando un seguimiento claro del recorrido de cada paciente a través de la atención médica. Los datos se registran de manera eficiente en un archivo CSV, utilizando Python para su procesamiento, lo que facilita la gestión, archivo y exportación de información relevante.
+
+Este programa será un recurso fundamental para optimizar la experiencia del usuario, tanto para los pacientes como para el personal de la EPS, reduciendo la carga administrativa y aumentando la satisfacción en la atención.
 
 # **El software de la EPS para las citas**
 
