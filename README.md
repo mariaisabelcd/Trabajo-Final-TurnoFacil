@@ -73,21 +73,21 @@ Este programa será un recurso fundamental para optimizar la experiencia del usu
 # **Especificación de requisitos**
 
 ## *Requisitos funcionales*
-• El programa permitirá que los pacientes consulten el día, la hora, el médico asignado y el tipo de consulta.
-• Los pacientes deben poder usar la plataforma para confirmar su asistencia a la cita y el administrador del sistema podrá ver si la cita ha sido confirmada o no.
-• El sistema debe permitir al administrador generar reportes de citas confirmadas y no confirmadas en formato CSV. Y la información debe permitirse exportar en dicho formato.
-• El sistema deberá tener un menú al que solo los administradores podrán acceder a través de una contraseña, lo que les permitirá realizar acciones como consultar citas, reportar atenciones y administrar la base de datos de pacientes.
-• Cada operación que realiza el sistema debe registrarse en un log de eventos, que incluya el tiempo de ejecución y las acciones realizadas.
-• El programa debe permitir que los usuarios se identifiquen introduciendo su número de identificación.
+- El programa permitirá que los pacientes consulten el día, la hora, el médico asignado y el tipo de consulta.
+- Los pacientes deben poder usar la plataforma para confirmar su asistencia a la cita y el administrador del sistema podrá ver si la cita ha sido confirmada o no.
+- El sistema debe permitir al administrador generar reportes de citas confirmadas y no confirmadas en formato CSV. Y la información debe permitirse exportar en dicho formato.
+- El sistema deberá tener un menú al que solo los administradores podrán acceder a través de una contraseña, lo que les permitirá realizar acciones como consultar citas, reportar atenciones y administrar la base de datos de pacientes.
+- Cada operación que realiza el sistema debe registrarse en un log de eventos, que incluya el tiempo de ejecución y las acciones realizadas.
+- El programa debe permitir que los usuarios se identifiquen introduciendo su número de identificación.
 
 ## *Requisitos no funcionales*
-• El sistema debe poder manejar varias solicitudes de consulta y confirmación de citas al mismo tiempo sin disminuir el tiempo de respuesta.
-• Los datos de los pacientes, especialmente los datos personales y médicos, deben estar protegidos. Para esto, se deberá usar una contraseña para evitar el acceso a las funciones administrativas.
-• La interfaz debe ser fácil de usar para personas sin experiencia técnica, con menús simples y opciones para interactuar con el sistema.
-• El programa debe ser compatible con varios sistemas operativos, como Windows, Linux y MacOS.
-• El sistema debe garantizar una alta disponibilidad y precisión en el manejo de datos de citas, minimizando fallas o pérdidas de información.
-• Para facilitar futuras actualizaciones y correcciones de errores, el código debe estar bien documentado y estructurado.
-• El sistema debe poder manejar errores de manera eficiente, registrar problemas en los registros y garantizar la integridad de los datos en caso de fallos inesperados.
+- El sistema debe poder manejar varias solicitudes de consulta y confirmación de citas al mismo tiempo sin disminuir el tiempo de respuesta.
+- Los datos de los pacientes, especialmente los datos personales y médicos, deben estar protegidos. Para esto, se deberá usar una contraseña para evitar el acceso a las funciones administrativas.
+- La interfaz debe ser fácil de usar para personas sin experiencia técnica, con menús simples y opciones para interactuar con el sistema.
+- El programa debe ser compatible con varios sistemas operativos, como Windows, Linux y MacOS.
+- El sistema debe garantizar una alta disponibilidad y precisión en el manejo de datos de citas, minimizando fallas o pérdidas de información.
+- Para facilitar futuras actualizaciones y correcciones de errores, el código debe estar bien documentado y estructurado.
+- El sistema debe poder manejar errores de manera eficiente, registrar problemas en los registros y garantizar la integridad de los datos en caso de fallos inesperados.
 
 # **Plan de proyecto**
 
