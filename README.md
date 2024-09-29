@@ -92,23 +92,87 @@ Este programa será un recurso fundamental para optimizar la experiencia del usu
 # **Plan de proyecto**
 
 # Definición del cronograma de tareas
-cronograma_tareas = [
-    dict(Tarea="Reunión inicial y asignación de responsabilidades", FechaInicio='2024-09-29', FechaFin='2024-10-01', Responsable="Juan, María, Julieth"),
-    dict(Tarea="Definición de requisitos del software", FechaInicio='2024-10-02', FechaFin='2024-10-05', Responsable="María"),
-    dict(Tarea="Diseño de la arquitectura del software", FechaInicio='2024-10-06', FechaFin='2024-10-10', Responsable="Juan"),
-    dict(Tarea="Desarrollo del módulo de gestión de citas", FechaInicio='2024-10-11', FechaFin='2024-10-18', Responsable="Julieth"),
-    dict(Tarea="Desarrollo del módulo de atención de pacientes", FechaInicio='2024-10-19', FechaFin='2024-10-26', Responsable="María"),
-    dict(Tarea="Integración de módulos y pruebas iniciales", FechaInicio='2024-10-27', FechaFin='2024-11-02', Responsable="Juan, María, Julieth"),
-    dict(Tarea="Revisión del código y corrección de errores", FechaInicio='2024-11-03', FechaFin='2024-11-08', Responsable="Juan"),
-    dict(Tarea="Generación de reportes y exportación a CSV", FechaInicio='2024-11-09', FechaFin='2024-11-12', Responsable="Julieth"),
-    dict(Tarea="Pruebas finales y ajustes de software", FechaInicio='2024-11-13', FechaFin='2024-11-17', Responsable="María"),
-    dict(Tarea="Documentación (Manual de usuario y README)", FechaInicio='2024-11-18', FechaFin='2024-11-21', Responsable="Julieth"),
-    dict(Tarea="Entrega final del trabajo", FechaInicio='2024-11-22', FechaFin='2024-11-24', Responsable="Juan, María, Julieth")
-]
 
-for tarea in cronograma_tareas:
-    print(f"Tarea: {tarea['Tarea']}, Fecha de Inicio: {tarea['FechaInicio']}, Fecha de Fin: {tarea['FechaFin']}, Responsable: {tarea['Responsable']}")
-
+<div align="center">
+<table border="1" style="border-collapse: collapse; width: 80%;">
+    <thead>
+        <tr>
+            <th>Tarea</th>
+            <th>Fecha de Inicio</th>
+            <th>Fecha de Fin</th>
+            <th>Responsable</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Reunión inicial y asignación de responsabilidades</td>
+            <td>2024-09-29</td>
+            <td>2024-10-01</td>
+            <td>Juan, María, Julieth</td>
+        </tr>
+        <tr>
+            <td>Definición de requisitos del software</td>
+            <td>2024-10-02</td>
+            <td>2024-10-05</td>
+            <td>María</td>
+        </tr>
+        <tr>
+            <td>Diseño de la arquitectura del software</td>
+            <td>2024-10-06</td>
+            <td>2024-10-10</td>
+            <td>Juan</td>
+        </tr>
+        <tr>
+            <td>Desarrollo del módulo de gestión de citas</td>
+            <td>2024-10-11</td>
+            <td>2024-10-18</td>
+            <td>Julieth</td>
+        </tr>
+        <tr>
+            <td>Desarrollo del módulo de atención de pacientes</td>
+            <td>2024-10-19</td>
+            <td>2024-10-26</td>
+            <td>María</td>
+        </tr>
+        <tr>
+            <td>Integración de módulos y pruebas iniciales</td>
+            <td>2024-10-27</td>
+            <td>2024-11-02</td>
+            <td>Juan, María, Julieth</td>
+        </tr>
+        <tr>
+            <td>Revisión del código y corrección de errores</td>
+            <td>2024-11-03</td>
+            <td>2024-11-08</td>
+            <td>Juan</td>
+        </tr>
+        <tr>
+            <td>Generación de reportes y exportación a CSV</td>
+            <td>2024-11-09</td>
+            <td>2024-11-12</td>
+            <td>Julieth</td>
+        </tr>
+        <tr>
+            <td>Pruebas finales y ajustes de software</td>
+            <td>2024-11-13</td>
+            <td>2024-11-17</td>
+            <td>María</td>
+        </tr>
+        <tr>
+            <td>Documentación (Manual de usuario y README)</td>
+            <td>2024-11-18</td>
+            <td>2024-11-21</td>
+            <td>Julieth</td>
+        </tr>
+        <tr>
+            <td>Entrega final del trabajo</td>
+            <td>2024-11-22</td>
+            <td>2024-11-24</td>
+            <td>Juan, María, Julieth</td>
+        </tr>
+    </tbody>
+</table>
+</div>
 
 ## *Presupuesto*
 *Numero de integrantes:* 3 (Juan Manuel, Maria Isabel, Julieth)
