@@ -14,7 +14,7 @@
         </tr>
         <tr>
             <td align="center">
-                <h1><b>TurnoFácil EPS</b></h1>
+                <h1><b> Software TurnoFácil </b></h1>
             </td>
         </tr>
         <tr>
@@ -46,7 +46,7 @@
 
 <br>
 
-# **Descripción del problema a solucionar -Software gestión turnos**
+# **Nombre del Proyecto y Detalles**
 
 El software TurnoFácil es una solución diseñada para la EPS PailaSalud con el fin de optimizar la gestión de turnos y la atención de pacientes, superando las limitaciones del proceso manual actual. El sistema organiza y gestiona la llegada de los pacientes, basándose en las citas programadas previamente por el sistema de la EPS, asegurando una atención más fluida y priorizada.
 
@@ -54,50 +54,23 @@ TurnoFácil mejora el rendimiento del servicio, disminuyendo tiempos de espera i
 
 Este programa será un recurso fundamental para optimizar la experiencia del usuario, tanto para los pacientes como para el personal de la EPS, reduciendo la carga administrativa y aumentando la satisfacción en la atención.
 
-# **El software de la EPS para las citas**
 
-La EPS Paila Salud, tiene un sistema de asignación de citas el cual recibe la solicitud de cita de los pacientes y registra su día, horario, tipo de cita, médico y la información personal del paciente. Este listado será proporcionado por una función del repositorio inicial.
 
-# **Objetivo**
-
-Crear un programa de consola visualmente amigable al usuario, en donde permita gestionar la atención de los pacientes y registrar los datos en un dataframe , para posteriormente exportar la atención en un archivo plano (CSV) usando Python y la gestión de dos documentos. Uno proporcionado por el repositorio inicial y otro creado por el estudiante para entregar una carpeta con los listados de pacientes.
-
-# **Reglas**
-
-## Actas de entendimiento y compromiso.
-
-Los integrantes del grupo deben definir su participación y responsabilidad mediante actas de entendimiento. Estas se describen a continuación:
-*   ### Objetivo de entendimiento y compromiso
->Este procedimiento tiene como objetivo establecer las normas y directrices para la creación de actas de entendimiento, colaboración y responsabilidad en trabajos grupales académicos. Busca promover un ambiente de trabajo colaborativo y respetuoso, asegurando que todos los miembros del grupo comprendan y acuerden sus roles y responsabilidades.
-
-*   ### Alcance
->Este procedimiento aplica a todos los estudiantes vinculados a un equipo para la entrega del trabajo final.
->*  #### Definiciones (Entregables)
->>*   Acta de Entendimiento: Documento que detalla los objetivos comunes del grupo y las expectativas de cada miembro respecto al proyecto.
->>*   Acta de Colaboración: Documento que especifica las metodologías de trabajo en equipo, incluyendo estrategias de comunicación y resolución de conflictos.
->>*   Acta de Responsabilidad: Documento que asigna tareas específicas a cada miembro del grupo, estableciendo plazos y criterios de evaluación.
-Procedimientos (Entregables)
->>*   Convocatoria de Reunión: El grupo deberá convocar a una reunión inicial para discutir los objetivos del proyecto y elaborar el Acta de Entendimiento.
->>*   Elaboración del Acta de Entendimiento: Durante la reunión, los miembros del grupo discutirán y acordarán los objetivos y expectativas del proyecto. Esta acta será redactada por un miembro designado y luego revisada y firmada por todos los integrantes.
->>*   Elaboración del Acta de Colaboración: Posteriormente, se redactará el Acta de Colaboración, donde se definirán las normas de trabajo en equipo, incluyendo los canales y frecuencia de comunicación.
->>*   Asignación de Responsabilidades: Finalmente, se creará el Acta de Responsabilidad, detallando las tareas específicas de cada miembro, así como los plazos de entrega. Cada miembro del grupo deberá firmar este documento, aceptando sus responsabilidades.
->*  #### Seguimiento y Evaluación (Entregables)
->>*   Reuniones de Seguimiento: El grupo deberá realizar reuniones periódicas para evaluar el progreso del proyecto y hacer ajustes necesarios en las actas.
->>*   Revisión de Actas: Las actas pueden ser revisadas y modificadas con el consentimiento de todos los miembros del grupo, según sea necesario para reflejar cambios en el proyecto o en la dinámica del equipo.
->*  #### Resolución de Conflictos
->>*   En caso de desacuerdos o conflictos, el grupo deberá referirse al Acta de Colaboración para resolver la situación mediante los mecanismos previamente acordados. Si no se llega a una resolución, se consultará con el del curso para mediación.
-
-# **Entregables**
-
-El entregable debe ser realizado en un repositorio de GitHub y debidamente organizado con todos los elementos de Markdown necesarios para establecer una jerarquía como un documento escrito.
-El repositorio debe tener lo siguientes procesos debidamente reportados.
-
-## **1.   Integrantes**
+# **Integrantes**
 En el repositorio del proyecto debe existir un archivo README.md en donde con Markdown detalle los nombres de los integrantes y una breve descripción.
+Este Todos los integrantes deben registrar el programa al cual pertenece, una descripción con habilidades y fortalezas de cada uno.
+Este proyecto 
 
-## **2.	Vínculos académicos y descripción**
+El equipo de desarrollo de TurnoFácil está compuesto por tres estudiantes de la Universidad de Antioquia, cada uno con habilidades únicas y complementarias, lo que garantiza una perspectiva integral en la creación del software. Esta diversidad de conocimientos y experiencias han sido clave para el desarrollo del proyecto, asegurando que las necesidades sean abordadas de manera eficiente. Aquí se presenta el equipo mencionado anteriormente:
 
-Todos los integrantes deben registrar el programa al cual pertenece, una descripción con habilidades y fortalezas de cada uno.
+## **María Isabel Cañas Duque*
+Estudiante de quinto semestre de Ingeniería Industrial. Soy una persona comprometida y proactiva, con una fuerte orientación hacia la mejora continua y la eficiencia en todo lo que hago. Además, soy adaptable y siempre busco aprender y crecer en cada desafío que enfrento, lo que me permite aportar soluciones innovadoras y trabajar de manera colaborativa en equipo.
+
+## **Juan Manuel Ospina Hincapié*
+Estudiante de Séptimo semestre de Ingeniería Industrial con habilidades destacadas en creatividad e iniciativa, liderazgo y conocimientos tecnológicos, además con fortalezas en capacidad analítica, adaptable a diferentes situaciones y objetivo en la toma de decisiones.
+
+## **Sandra Julieth Sandoval López*
+Estudiante de cuarto semestre de ingeniería industrial. Dentro de mis fortalezas destaco la resolución de problemas y la creatividad a la hora de buscar soluciones; y destaco habilidades como mi capacidad de aprendizaje y trabajo en equipo. 
 
 ## **3.	Nombre del proyecto y detalles**
 
