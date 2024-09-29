@@ -91,7 +91,7 @@ Este programa será un recurso fundamental para optimizar la experiencia del usu
 
 # **Plan de proyecto**
 
-# Definición del cronograma de tareas
+## *Definición del cronograma de tareas*
 
 <div align="center">
 <table border="1" style="border-collapse: collapse; width: 80%;">
