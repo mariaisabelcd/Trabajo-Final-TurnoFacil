@@ -1,7 +1,9 @@
-<div align="center" style="padding: 20px;">
+<div align="center" style="padding: 15px;">
     <img src="https://raw.githubusercontent.com/mariaisabelcd/Trabajo-Final/refs/heads/main/images/logo%20turnof%C3%A1cil.png" alt="Logo TurnoFácil" style="width: 300px; height: auto;">
 </div>
-<div align="center" style="background-color:#f0f8ff; padding:20px; border-radius:10px; box-shadow: 0px 4px 6px rgba(0,0,0,0.1);">
+
+<div align="center" style="background-color:#f0f8ff; padding:15px; border-radius:10px; box-shadow: 0px 4px 6px rgba(0,0,0,0.1);">
+    <h1><b>Proyecto TurnoFácil</b></h1>
     <h2>Optimizando la gestión de turnos en EPS PailaSalud</h2>
     <p> Sistema automatizado para mejorar la experiencia del usuario, facilitando la atención médica y reduciendo los tiempos de espera en las EPS.
     </p>
