@@ -91,18 +91,24 @@ Este programa será un recurso fundamental para optimizar la experiencia del usu
 
 # **Plan de proyecto**
 
-dict(Tarea="Reunión inicial y asignación de responsabilidades", FechaInicio='2024-09-29', FechaFin='2024-10-01', Responsable="Juan, María, Julieth"),
-dict(Tarea="Definición de requisitos del software", FechaInicio='2024-10-02', FechaFin='2024-10-05', Responsable="María"),
-dict(Tarea="Diseño de la arquitectura del software", FechaInicio='2024-10-06', FechaFin='2024-10-10', Responsable="Juan"),
-dict(Tarea="Desarrollo del módulo de gestión de citas", FechaInicio='2024-10-11', FechaFin='2024-10-18', Responsable="Julieth"),
-dict(Tarea="Desarrollo del módulo de atención de pacientes", FechaInicio='2024-10-19', FechaFin='2024-10-26', Responsable="María"),
-dict(Tarea="Integración de módulos y pruebas iniciales", FechaInicio='2024-10-27', FechaFin='2024-11-02', Responsable="Juan, María, Julieth"),
-dict(Tarea="Revisión del código y corrección de errores", FechaInicio='2024-11-03', FechaFin='2024-11-08', Responsable="Juan"),
-dict(Tarea="Generación de reportes y exportación a CSV", FechaInicio='2024-11-09', FechaFin='2024-11-12', Responsable="Julieth"),
-dict(Tarea="Pruebas finales y ajustes de software", FechaInicio='2024-11-13', FechaFin='2024-11-17', Responsable="María"),
-dict(Tarea="Documentación (Manual de usuario y README)", FechaInicio='2024-11-18', FechaFin='2024-11-21', Responsable="Julieth"),
-dict(Tarea="Entrega final del trabajo", FechaInicio='2024-11-22', FechaFin='2024-11-24', Responsable="Juan, María, Julieth")
-])
+# Definición del cronograma de tareas
+cronograma_tareas = [
+    dict(Tarea="Reunión inicial y asignación de responsabilidades", FechaInicio='2024-09-29', FechaFin='2024-10-01', Responsable="Juan, María, Julieth"),
+    dict(Tarea="Definición de requisitos del software", FechaInicio='2024-10-02', FechaFin='2024-10-05', Responsable="María"),
+    dict(Tarea="Diseño de la arquitectura del software", FechaInicio='2024-10-06', FechaFin='2024-10-10', Responsable="Juan"),
+    dict(Tarea="Desarrollo del módulo de gestión de citas", FechaInicio='2024-10-11', FechaFin='2024-10-18', Responsable="Julieth"),
+    dict(Tarea="Desarrollo del módulo de atención de pacientes", FechaInicio='2024-10-19', FechaFin='2024-10-26', Responsable="María"),
+    dict(Tarea="Integración de módulos y pruebas iniciales", FechaInicio='2024-10-27', FechaFin='2024-11-02', Responsable="Juan, María, Julieth"),
+    dict(Tarea="Revisión del código y corrección de errores", FechaInicio='2024-11-03', FechaFin='2024-11-08', Responsable="Juan"),
+    dict(Tarea="Generación de reportes y exportación a CSV", FechaInicio='2024-11-09', FechaFin='2024-11-12', Responsable="Julieth"),
+    dict(Tarea="Pruebas finales y ajustes de software", FechaInicio='2024-11-13', FechaFin='2024-11-17', Responsable="María"),
+    dict(Tarea="Documentación (Manual de usuario y README)", FechaInicio='2024-11-18', FechaFin='2024-11-21', Responsable="Julieth"),
+    dict(Tarea="Entrega final del trabajo", FechaInicio='2024-11-22', FechaFin='2024-11-24', Responsable="Juan, María, Julieth")
+]
+
+for tarea in cronograma_tareas:
+    print(f"Tarea: {tarea['Tarea']}, Fecha de Inicio: {tarea['FechaInicio']}, Fecha de Fin: {tarea['FechaFin']}, Responsable: {tarea['Responsable']}")
+
 
 ## *Presupuesto*
 *Numero de integrantes:* 3 (Juan Manuel, Maria Isabel, Julieth)
