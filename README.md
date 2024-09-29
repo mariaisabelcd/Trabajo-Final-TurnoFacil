@@ -1,13 +1,23 @@
-<div align="center" style="padding: 10px;">
-    <img src="https://raw.githubusercontent.com/mariaisabelcd/Trabajo-Final/refs/heads/main/images/logo%20turnof%C3%A1cil.png" alt="Logo TurnoFácil" style="width: 300px; height: auto;">
+<div align="center">
+<table>
+    <thead>
+        <tr>
+            <td rowspan="3">
+                <img alt="TurnoFácil" height="200px" src="https://raw.githubusercontent.com/mariaisabelcd/Trabajo-Final/refs/heads/main/images/logo%20turnof%C3%A1cil.png" hspace="10px" vspace="0px">
+            </td>
+            <td align="center">
+                <h1><b>Software TurnoFácil</b></h1>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">
+                <h2><b>Optimizando la gestión de turnos en EPS PailaSalud</b></h2>
+            </td>
+        </tr>
+    </thead>
+</table>
 </div>
 
-<div align="center" style="background-color:#f0f8ff; padding:10px; border-radius:5px; box-shadow: 0px 4px 6px rgba(0,0,0,0.1);">
-    <h1><b>Proyecto TurnoFácil</b></h1>
-    <h2>Optimizando la gestión de turnos en EPS PailaSalud</h2>
-    <p> Sistema automatizado para mejorar la experiencia del usuario, facilitando la atención médica y reduciendo los tiempos de espera en las EPS.
-    </p>
-</div>
 
 <div align="right">
 <h2> <b> Por: María Isabel Cañas Duque </b> </h2>
