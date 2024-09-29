@@ -1,32 +1,10 @@
-<div align="center">
-<table>
-    <thead>
-        <tr>
-            <td rowspan="3">
-                <img alt="UdeA" height="200px" src="https://raw.githubusercontent.com/juliancastillo-udea/2024-1-ProgramacionPosgrados/main/images/Escudo-UdeA.svg" hspace="10px" vspace="0px">
-            </td>
-            <td align="center">
-                <h1><b>Programación y Algoritmia</b></h1>
-            </td>
-            <td rowspan="3">
-                <img alt="II" height="200px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ingenier%C3%ADa_Industrial_UdeA.png/1026px-Ingenier%C3%ADa_Industrial_UdeA.png" hspace="0px" vspace="0px">
-            </td>
-        </tr>
-        <tr>
-            <td align="center">
-                <h1><b> Software TurnoFácil </b></h1>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <img align="center" alt="Fresas" height="200px" src="https://raw.githubusercontent.com/mariaisabelcd/Trabajo-Final/main/images/fresh-strawberries-bowl-old-dark-background-828x548.jpg" hspace="10px" vspace="0px">
-            </td>
-        </tr>
-    </thead>
-</table>
-
+<div align="center" style="background-color:#f0f8ff; padding:20px; border-radius:10px; box-shadow: 0px 4px 6px rgba(0,0,0,0.1);">
+    <h1 style="font-family: Arial, sans-serif; font-size: 36px; color:#2F4F4F;"><b>Proyecto TurnoFácil</b></h1>
+    <h2 style="font-family: Arial, sans-serif; font-size: 24px; color:#4682B4;">Optimizando la gestión de turnos en EPS PailaSalud</h2>
+    <p style="font-family: Arial, sans-serif; font-size: 18px; color: #696969;">
+        Sistema automatizado para mejorar la experiencia del usuario, facilitando la atención médica y reduciendo los tiempos de espera en las EPS.
+    </p>
 </div>
-</p>
 
 <div align="right">
 <h2> <b> Por: María Isabel Cañas Duque </b> </h2>
