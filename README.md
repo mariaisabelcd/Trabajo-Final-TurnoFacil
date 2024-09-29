@@ -37,11 +37,17 @@
 
 <div align="right">
 <h2> <b> Por: María Isabel Cañas Duque </b> </h2>
+<p> Estudiante de quinto semestre de Ingeniería Industrial. Soy una persona comprometida y proactiva, con una fuerte orientación hacia la mejora continua y la eficiencia en todo lo que hago. Además, soy adaptable y siempre busco aprender y crecer en cada desafío que enfrento, lo que me permite aportar soluciones innovadoras y trabajar de manera colaborativa en equipo. </p>
 <a href="mailto:maria.canasd@udea.edu.co"> ✉ María Isabel Cañas Duque </a>
+
 <h2> <b> Por: Juan Manuel Ospina Hincapié </b> </h2>
+<p> Estudiante de Séptimo semestre de Ingeniería Industrial con habilidades destacadas en creatividad e iniciativa, liderazgo y conocimientos tecnológicos, además con fortalezas en capacidad analítica, adaptable a diferentes situaciones y objetivo en la toma de decisiones. </p>
 <a href="mailto:juan.ospina27@udea.edu.co"> ✉ Juan Manuel Ospina Hincapié </a>
+
 <h2> <b> Por: Sandra Julieth Sandoval López </b> </h2>
+<p> Estudiante de cuarto semestre de ingeniería industrial. Dentro de mis fortalezas destaco la resolución de problemas y la creatividad a la hora de buscar soluciones; y destaco habilidades como mi capacidad de aprendizaje y trabajo en equipo. </p>
 <a href="mailto:julieth.sandoval@udea.edu.co"> ✉ Sandra Julieth Sandoval López </a>
+
 </div>
 
 <br>
