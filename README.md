@@ -36,7 +36,7 @@
 
 <br>
 
-# **Nombre del Proyecto y Detalles**
+# **Detalles del proyecto**
 
 El software TurnoFácil es una solución diseñada para la EPS PailaSalud con el fin de optimizar la gestión de turnos y la atención de pacientes, superando las limitaciones del proceso manual actual. El sistema organiza y gestiona la llegada de los pacientes, basándose en las citas programadas previamente por el sistema de la EPS, asegurando una atención más fluida y priorizada.
 
@@ -45,26 +45,6 @@ TurnoFácil mejora el rendimiento del servicio, disminuyendo tiempos de espera i
 Este programa será un recurso fundamental para optimizar la experiencia del usuario, tanto para los pacientes como para el personal de la EPS, reduciendo la carga administrativa y aumentando la satisfacción en la atención.
 
 
-
-# **Integrantes**
-En el repositorio del proyecto debe existir un archivo README.md en donde con Markdown detalle los nombres de los integrantes y una breve descripción.
-Este Todos los integrantes deben registrar el programa al cual pertenece, una descripción con habilidades y fortalezas de cada uno.
-Este proyecto 
-
-El equipo de desarrollo de TurnoFácil está compuesto por tres estudiantes de la Universidad de Antioquia, cada uno con habilidades únicas y complementarias, lo que garantiza una perspectiva integral en la creación del software. Esta diversidad de conocimientos y experiencias han sido clave para el desarrollo del proyecto, asegurando que las necesidades sean abordadas de manera eficiente. Aquí se presenta el equipo mencionado anteriormente:
-
-## **María Isabel Cañas Duque*
-Estudiante de quinto semestre de Ingeniería Industrial. Soy una persona comprometida y proactiva, con una fuerte orientación hacia la mejora continua y la eficiencia en todo lo que hago. Además, soy adaptable y siempre busco aprender y crecer en cada desafío que enfrento, lo que me permite aportar soluciones innovadoras y trabajar de manera colaborativa en equipo.
-
-## **Juan Manuel Ospina Hincapié*
-Estudiante de Séptimo semestre de Ingeniería Industrial con habilidades destacadas en creatividad e iniciativa, liderazgo y conocimientos tecnológicos, además con fortalezas en capacidad analítica, adaptable a diferentes situaciones y objetivo en la toma de decisiones.
-
-## **Sandra Julieth Sandoval López*
-Estudiante de cuarto semestre de ingeniería industrial. Dentro de mis fortalezas destaco la resolución de problemas y la creatividad a la hora de buscar soluciones; y destaco habilidades como mi capacidad de aprendizaje y trabajo en equipo. 
-
-## **3.	Nombre del proyecto y detalles**
-
-Describir el proyecto en pocas líneas y asignarle un nombre con una foto representativa del nombre del proyecto (no es una foto de los integrantes).
 
 ## **4.	Licencia del software**
 
