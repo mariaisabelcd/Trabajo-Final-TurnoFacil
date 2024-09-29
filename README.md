@@ -1,4 +1,4 @@
-<img align="center" alt="Logo TurnoFácil" height="200px" src="https://raw.githubusercontent.com/mariaisabelcd/Trabajo-Final/refs/heads/main/images/logo%20turnof%C3%A1cil.png" hspace="10px" vspace="0px">
+<img align="center" alt="Logo TurnoFácil" height="200px" src="https://raw.githubusercontent.com/mariaisabelcd/Trabajo-Final/refs/heads/main/images/logo%20turnof%C3%A1cil.png" hspace="30px" vspace="0px">
 
 <div align="center" style="background-color:#f0f8ff; padding:20px; border-radius:10px; box-shadow: 0px 4px 6px rgba(0,0,0,0.1);">
     <h1><b>Proyecto TurnoFácil</b></h1>
