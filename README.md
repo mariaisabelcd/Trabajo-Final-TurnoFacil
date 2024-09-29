@@ -69,7 +69,8 @@ Este programa será un recurso fundamental para optimizar la experiencia del usu
 - Mejora en la percepción del servicio por parte de los usuarios.
 - Posibilidad de ajustar y modificar turnos en tiempo real según necesidades.
 
-## **Especificación de requisitos**
+
+# **Especificación de requisitos**
 
 ## *Requisitos funcionales*
 •	El programa permitirá que los pacientes consulten el día, la hora, el médico asignado y el tipo de consulta.
@@ -88,7 +89,7 @@ Este programa será un recurso fundamental para optimizar la experiencia del usu
 •	Para facilitar futuras actualizaciones y correcciones de errores, el código debe estar bien documentado y estructurado.
 •	el sistema debe poder manejar errores de manera eficiente, registrar problemas en los registros y garantizar la integridad de los datos en caso de fallos inesperados.
 
-## **Plan de proyecto**
+# **Plan de proyecto**
 
 dict(Tarea="Reunión inicial y asignación de responsabilidades", FechaInicio='2024-09-29', FechaFin='2024-10-01', Responsable="Juan, María, Julieth"),
 dict(Tarea="Definición de requisitos del software", FechaInicio='2024-10-02', FechaFin='2024-10-05', Responsable="María"),
