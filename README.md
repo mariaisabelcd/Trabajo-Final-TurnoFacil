@@ -175,8 +175,12 @@ Este programa será un recurso fundamental para optimizar la experiencia del usu
 </div>
 
 ## *Presupuesto*
-*Numero de integrantes:* 3 (Juan Manuel, Maria Isabel, Julieth)
-*Horas dedicas por integrante:* 80 horas c/u
-*Total de horas del equipo:* 3*80= 240 Horas 
-*Equivalencia al SMLV:* 8 horas/día * 30dias/mes= 240 horas/mes
+Numero de integrantes: 3 (Juan Manuel, Maria Isabel, Julieth)
+
+Horas dedicas por integrante: 80 horas c/u
+
+Total de horas del equipo: 3*80= 240 Horas
+
+Equivalencia al SMLV: 8 horas/día * 30dias/mes= 240 horas/mes
+
 El presupuesto de tiempo para este proyecto se mide en horas de trabajo y corresponde a 1 SMLV (240 horas). Esto refleja el esfuerzo conjunto de los tres integrantes, quienes dedicaremos un total de 240 horas (80 horas cada uno) a realizar el proyecto.
