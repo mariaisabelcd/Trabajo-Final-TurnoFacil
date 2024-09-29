@@ -44,6 +44,10 @@ TurnoFácil mejora el rendimiento del servicio, disminuyendo tiempos de espera i
 
 Este programa será un recurso fundamental para optimizar la experiencia del usuario, tanto para los pacientes como para el personal de la EPS, reduciendo la carga administrativa y aumentando la satisfacción en la atención.
 
+<div align="center">
+    <img alt="Imagen representativa del proyecto" height="300px" src="https://raw.githubusercontent.com/mariaisabelcd/Trabajo-Final/refs/heads/main/images/atenci%C3%B3n%20turnof%C3%A1cil.jpg" hspace="10px" vspace="0px">
+</div>
+
 
 
 ## **4.	Licencia del software**
